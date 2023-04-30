@@ -29,7 +29,6 @@ export const TextBox = styled.div`
 `;
 
 export const Container = styled.div`
-  padding: 20px 0;
   height: 100%;
 `;
 
